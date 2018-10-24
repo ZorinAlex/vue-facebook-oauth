@@ -1,4 +1,4 @@
-# vue-google-oauth
+# vue-facebook-oauth
 Handling Facebook sign-in and sign-out for Vue.js applications
 
 ## Installation
